@@ -41,4 +41,4 @@ See more in `appendix II`.
 At this point, you should be able to interact with the Picture Picker UI.
 
 
-(See Wiki for more)
+(See Wiki - https://github.com/SirGoingFar/SnapNow/wiki/SnapNow - for more)
